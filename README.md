@@ -8,7 +8,7 @@ To address this gap, we propose an integrated air quality monitoring system that
 
 ## Architecture
 
-The project leverages industry standard tools to achieve its requirements of handling big data, along with custom embedded system design to gather air charecteristic data.
+The project leverages industry standard tools to achieve its requirements of handling big data, along with custom embedded system design to gather air characteristic data.
 
 ### Streaming platform
 
