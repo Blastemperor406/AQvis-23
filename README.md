@@ -1,6 +1,5 @@
 # AQvis-23
 Big Data, IOT, Data analytic, Web tech project for PIL'23 and next gen Labs.
-\n
 ## Abstract.
 
 Monitoring air quality in real-time and obtaining accurate data is essential for understanding pollution patterns, identifying sources, and taking appropriate mitigation measures. Traditional air quality monitoring systems, character- ized by limited data and ground coverage and high costs, fail to provide the comprehensive insights necessary for informed decision-making and effective air quality management. Consequently, there is an ever-growing need for advanced monitoring systems that can capture a broader range of air quality parameters, deliver data in real-time, and provide robust data analysis and visualization capabilities.
@@ -19,3 +18,6 @@ Documentation - https://kafka.apache.org/documentation/
 
 **Apache Spark**
 Documentation - https://spark.apache.org/docs/latest/
+
+![architecure.png]
+
