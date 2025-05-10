@@ -19,5 +19,5 @@ Documentation - https://kafka.apache.org/documentation/
 **Apache Spark**
 Documentation - https://spark.apache.org/docs/latest/
 
-![architecure.png]
+![image](./Architecture.png)
 
